@@ -28,3 +28,5 @@ sudo dmidecode -s processor-family
 Windows (admin?)
 wmic /APPEND:wlist.txt diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber /format:csv
 
+MAC address, OP, alaplap(gép)
+
