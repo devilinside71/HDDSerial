@@ -1,0 +1,37 @@
+REM wmic diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber
+REM wmic bios get Name, Manufacturer, SerialNumber
+REM wmic OS LIST BRIEF /format:hform>>MyOS.htm
+REM chcp 1252
+REM wmic OS LIST BRIEF >> wlist.txt
+REM wmic bios get Name, Manufacturer, SerialNumber >> wlist.txt
+REM wmic /APPEND:wlist.txt diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber
+REM echo ------------------ >> wlist.txt
+REM wmic /APPEND:e:\wlist.csv OS LIST BRIEF /format:csv
+REM wmic /APPEND:e:wlist.csv bios get Name, Manufacturer, SerialNumber
+
+REM wmic /APPEND:wlist.csv diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber /format:csv
+wmic /APPEND:wlist.txt diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber /format:csv
+REM wmic /APPEND:wlist.csv bios get Name, Manufacturer, SerialNumber /format:csv
+
+REM @echo off
+set outputfile="wlist2.txt"
+
+
+REM echo InterfaceType,Manufacturer,MediaType,Model,Name,SerialNumber>>%outputfile%
+
+REM for /f "delims== tokens=2" %%i in ('wmic csproduct get name /value') do SET CSPRODUCT=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic bios get serialnumber /value') do SET SERIAL=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get model /value') do SET DISK=%%i
+REM REM for /f "delims== tokens=2" %%i in ('wmic path win32_physicalmedia get SerialNumber /value') do SET PMSERIAL=%%i
+REM Node,InterfaceType,Manufacturer,MediaType,Model,Name,SerialNumber
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get Node /value') do SET NODE=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get InterfaceType /value') do SET INTER=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get Manufacturer /value') do SET MANU=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get MediaType /value') do SET MEDIA=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get Model /value') do SET MODEL=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get Name /value') do SET NAME=%%i
+REM for /f "delims== tokens=2" %%i in ('wmic diskdrive get SerialNumber /value') do SET SERIAL=%%i
+REM REM echo %NODE%,%INTER%,%MANU%,%MEDIA%,%MODEL%,%NAME%,%SERIAL%>>%outputfile%
+
+REM echo %NAME%,%SERIAL%,%INTER%,%MANU%,%MEDIA%,%MODEL%>>%outputfile%
+

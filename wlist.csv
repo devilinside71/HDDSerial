@@ -1,0 +1,12 @@
+Node,InterfaceType,Manufacturer,MediaType,Model,Name,SerialNumber
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+
+Node,InterfaceType,Manufacturer,MediaType,Model,Name,SerialNumber
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+
+Node,Manufacturer,Name,SerialNumber
+DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
+Hostname,Model,Serial,Disk,DiskSerial
+HP Z240 Tower Workstation,CZC7519D6F,SKhynix SC300 HFS256G32MND-3210A,
