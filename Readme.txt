@@ -30,3 +30,7 @@ wmic /APPEND:wlist.txt diskdrive get Name, Manufacturer, Model, InterfaceType, M
 
 MAC address, OP, alaplap(gép)
 
+
+
+MacOS
+system_profiler SPSerialATADataType
