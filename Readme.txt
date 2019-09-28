@@ -33,4 +33,8 @@ MAC address, OP, alaplap(gép)
 
 
 MacOS
+HDD info:
 system_profiler SPSerialATADataType
+
+MAC address:
+ifconfig | grep -o -E '([[:xdigit:]]{1,2}:){5}[[:xdigit:]]{1,2}'
