@@ -1,0 +1,2 @@
+sda   EJ77N46151050796I        disk sata   SKhynix_SC300_HFS256G32MND-3210A ATA         0
+sdb   Z4Z9CTTW                 disk sata   ST2000DM001-1ER164               ATA         1

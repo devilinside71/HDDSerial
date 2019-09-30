@@ -1,0 +1,25 @@
+350-             description: Ethernet interface
+351-             product: Ethernet Connection (2) I219-LM
+352-             vendor: Intel Corporation
+357-             serial: c8:d3:ff:bb:b5:de
+sda   EJ77N46151050796I        disk sata   SKhynix_SC300_HFS256G32MND-3210A ATA         0
+sdb   Z4Z9CTTW                 disk sata   ST2000DM001-1ER164               ATA         1
+----------------
+350-             description: Ethernet interface
+351-             product: Ethernet Connection (2) I219-LM
+352-             vendor: Intel Corporation
+357-             serial: c8:d3:ff:bb:b5:de
+sda   EJ77N46151050796I        disk sata   SKhynix_SC300_HFS256G32MND-3210A ATA         0
+sdb   Z4Z9CTTW                 disk sata   ST2000DM001-1ER164               ATA         1
+----------------
+	Manufacturer: HP
+	Product Name: HP Z240 Tower Workstation
+	Serial Number: CZC737843V
+	SKU Number: Y3Y80EA#ARL
+350-             description: Ethernet interface
+351-             product: Ethernet Connection (2) I219-LM
+352-             vendor: Intel Corporation
+357-             serial: c8:d3:ff:bb:b5:de
+sda   EJ77N46151050796I        disk sata   SKhynix_SC300_HFS256G32MND-3210A ATA         0
+sdb   Z4Z9CTTW                 disk sata   ST2000DM001-1ER164               ATA         1
+----------------
