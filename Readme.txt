@@ -45,6 +45,9 @@ MAC address, OP, alaplap(gép)
 dir /B | findstr /R /C:"[mp]"
 
 
+Office?
+
+
 
 MacOS
 HDD info:
