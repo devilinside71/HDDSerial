@@ -27,8 +27,22 @@ sudo dmidecode -s processor-family
 
 Windows (admin?)
 wmic /APPEND:wlist.txt diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber /format:csv
+wmic nicconfig get Description, MACAddress, IPAddress, IPSubnet, DefaultIPGateway, DNSServerSearchOrder, DHCPEnabled
+wmic /APPEND:wniclist.txt nicconfig get Description, MACAddress  /format:csv | find ":"
+wmic nicconfig get Description, MACAddress /format:csv | find ":" >> wniclist.txt
+wmic diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber /format:csv >> whddlist.txt
+wmic diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber /format:csv | find "PHYSICAL" >> whddlist.txt
+wmic /APPEND:e:wlist.csv bios get Name, Manufacturer, SerialNumber
+wmic bios get Name, Manufacturer, SerialNumber >> wbioslist.txt
+wmic bios get Name, Manufacturer, SerialNumber /format:csv  | find "Ver" >> wbioslist.txt
+wmic OS LIST BRIEF /format:csv  | find "WINDOWS" >> woslist.txt
+
+wmic os get Name, Manufacturer, Version, BuildNumber, OSType, SerialNumber /format:csv  | find "WINDOWS" >> woslist.txt
+
+wmic baseboard get Manufacturer, Model, Product, SerialNumber, Version
 
 MAC address, OP, alaplap(gép)
+dir /B | findstr /R /C:"[mp]"
 
 
 

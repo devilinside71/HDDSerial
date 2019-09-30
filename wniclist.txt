@@ -1,0 +1,5 @@
+DESKTOP-424KP6V,Intel(R) Ethernet Connection (2) I219-LM,3C:52:82:5D:BC:71
+DESKTOP-424KP6V,Qualcomm Atheros AR7015 Wireless Network Adapter,A0:F3:C1:0C:CA:84
+DESKTOP-424KP6V,WAN Miniport (IP),76:F0:20:52:41:53
+DESKTOP-424KP6V,WAN Miniport (IPv6),78:56:20:52:41:53
+DESKTOP-424KP6V,WAN Miniport (Network Monitor),78:56:20:52:41:53

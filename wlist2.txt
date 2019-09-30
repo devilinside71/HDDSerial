@@ -1,3 +1,0 @@
-Name,SerialNumber,InterfaceType,Manufacturer,MediaType,Model
-\\.\PHYSICALDRIVE0,EJ7AN6781102AB223,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A
-\\.\PHYSICALDRIVE0,EJ7AN6781102AB223,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A
