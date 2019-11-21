@@ -223,3 +223,13 @@ DESKTOP-424KP6V,Apple Mobile Device Ethernet,A2:56:F3:77:2E:5F
 DESKTOP-424KP6V,VirtualBox Host-Only Ethernet Adapter,0A:00:27:00:00:0A
 DESKTOP-424KP6V,VMware Virtual Ethernet Adapter for VMnet1 #2,00:50:56:C0:00:01
 DESKTOP-424KP6V,VMware Virtual Ethernet Adapter for VMnet8 #2,00:50:56:C0:00:08
+DESKTOP-424KP6V,TunnelBear Adapter V9,00:FF:08:BC:1B:78
+DESKTOP-424KP6V,Intel(R) Ethernet Connection (2) I219-LM,3C:52:82:5D:BC:71
+DESKTOP-424KP6V,Qualcomm Atheros AR7015 Wireless Network Adapter,A0:F3:C1:0C:CA:84
+DESKTOP-424KP6V,WAN Miniport (IP),30:8A:20:52:41:53
+DESKTOP-424KP6V,WAN Miniport (IPv6),34:4E:20:52:41:53
+DESKTOP-424KP6V,WAN Miniport (Network Monitor),36:AC:20:52:41:53
+DESKTOP-424KP6V,Apple Mobile Device Ethernet,A2:56:F3:77:2E:5F
+DESKTOP-424KP6V,VirtualBox Host-Only Ethernet Adapter,0A:00:27:00:00:0A
+DESKTOP-424KP6V,VMware Virtual Ethernet Adapter for VMnet1 #2,00:50:56:C0:00:01
+DESKTOP-424KP6V,VMware Virtual Ethernet Adapter for VMnet8 #2,00:50:56:C0:00:08
