@@ -1,2 +1,68 @@
 DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
 DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,ST2000DM001-1ER164,\\.\PHYSICALDRIVE1,Z4Z9E7XF
+DESKTOP-424KP6V,SCSI,(Standard disk drives),Fixed hard disk media,SKhynix SC300 HFS256G32MND-3210A,\\.\PHYSICALDRIVE0,EJ7AN6781102AB223
+DESKTOP-424KP6V,USB,(Standard disk drives),Removable Media,Kingston DataTraveler 2.0 USB Device,\\.\PHYSICALDRIVE2,5B840200032E
