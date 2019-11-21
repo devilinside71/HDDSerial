@@ -1,79 +1,4 @@
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
-PRODUCT ID: 00201-11380-71908-AA352
-LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
-LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
-LICENSE STATUS:  ---LICENSED--- 
-Last 5 characters of installed product key: HCB44
-PRODUCT ID: 00200-70000-00000-AA178
-LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
-LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
-LICENSE STATUS:  ---NOTIFICATIONS--- 
-Last 5 characters of installed product key: KHGM9
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
-PRODUCT ID: 00201-11380-71908-AA352
-LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
-LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
-LICENSE STATUS:  ---LICENSED--- 
-Last 5 characters of installed product key: HCB44
-PRODUCT ID: 00200-70000-00000-AA178
-LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
-LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
-LICENSE STATUS:  ---NOTIFICATIONS--- 
-Last 5 characters of installed product key: KHGM9
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
-PRODUCT ID: 00201-11380-71908-AA352
-LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
-LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
-LICENSE STATUS:  ---LICENSED--- 
-Last 5 characters of installed product key: HCB44
-PRODUCT ID: 00200-70000-00000-AA178
-LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
-LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
-LICENSE STATUS:  ---NOTIFICATIONS--- 
-Last 5 characters of installed product key: KHGM9
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
-PRODUCT ID: 00201-11380-71908-AA352
-LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
-LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
-LICENSE STATUS:  ---LICENSED--- 
-Last 5 characters of installed product key: HCB44
-PRODUCT ID: 00200-70000-00000-AA178
-LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
-LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
-LICENSE STATUS:  ---NOTIFICATIONS--- 
-Last 5 characters of installed product key: KHGM9
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
-PRODUCT ID: 00201-11380-71908-AA352
-LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
-LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
-LICENSE STATUS:  ---LICENSED--- 
-Last 5 characters of installed product key: HCB44
-PRODUCT ID: 00200-70000-00000-AA178
-LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
-LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
-LICENSE STATUS:  ---NOTIFICATIONS--- 
-Last 5 characters of installed product key: KHGM9
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
----------------------------------------------------- 
-DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
-PRODUCT ID: 00201-11380-71908-AA352
-LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
-LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
-LICENSE STATUS:  ---LICENSED--- 
-Last 5 characters of installed product key: HCB44
-PRODUCT ID: 00200-70000-00000-AA178
-LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
-LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
-LICENSE STATUS:  ---NOTIFICATIONS--- 
-Last 5 characters of installed product key: KHGM9
----------------------------------------------------- 
+2019. 11. 21.  9:52:51,20 
 DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
 Office 64 bit: 
 Office 32 bit: 
@@ -88,6 +13,37 @@ LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
 LICENSE STATUS:  ---NOTIFICATIONS--- 
 Last 5 characters of installed product key: KHGM9
 ---------------------------------------------------- 
+%Y-%m-%d 
+DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
+Office 64 bit: 
+Office 32 bit: 
+PRODUCT ID: 00201-11380-71908-AA352
+LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
+LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
+LICENSE STATUS:  ---LICENSED--- 
+Last 5 characters of installed product key: HCB44
+PRODUCT ID: 00200-70000-00000-AA178
+LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
+LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
+LICENSE STATUS:  ---NOTIFICATIONS--- 
+Last 5 characters of installed product key: KHGM9
+---------------------------------------------------- 
+2019. 11. 21.  9:59:05,72 
+DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
+Office 64 bit: 
+Office 32 bit: 
+PRODUCT ID: 00201-11380-71908-AA352
+LICENSE NAME: Office 16, Office16O365HomePremR_Subscription4 edition
+LICENSE DESCRIPTION: Office 16, TIMEBASED_SUB channel
+LICENSE STATUS:  ---LICENSED--- 
+Last 5 characters of installed product key: HCB44
+PRODUCT ID: 00200-70000-00000-AA178
+LICENSE NAME: Office 16, Office16O365HomePremR_Grace edition
+LICENSE DESCRIPTION: Office 16, RETAIL(Grace) channel
+LICENSE STATUS:  ---NOTIFICATIONS--- 
+Last 5 characters of installed product key: KHGM9
+---------------------------------------------------- 
+2019. 11. 21. 10:21:42,89 
 DESKTOP-424KP6V,HP,N51 Ver. 01.63,CZC7519D6F
 Office 64 bit: 
 Office 32 bit: 
