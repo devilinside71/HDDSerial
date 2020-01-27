@@ -29,6 +29,18 @@ wmic nicconfig get Description, MACAddress /format:csv | find ":" >> wfulllist.t
 echo ------------------------------------------------------------------------------------------ >> wfulllist.txt
 echo OS >> wfulllist.txt
 wmic OS LIST BRIEF /format:csv  | find "WINDOWS" >> wfulllist.txt
+
+Set "WinVerAct="
+
+For /f "tokens=*" %%W in ('
+    cscript /Nologo "C:\Windows\System32\slmgr.vbs" /xpr
+') Do Set "WinVerAct=!WinVerAct! %%W"
+if Not defined WinVerAct ( 
+    Echo:No response from slmgr.vbs
+    Exit /B 1
+)
+echo:"%WinVerAct:~1%" >> wfulllist.txt
+
 echo ------------------------------------------------------------------------------------------ >> wfulllist.txt
 echo Office 64 bit: >> wfulllist.txt
 cscript "%ospppath64%" /dstatus | findstr "PRODUCT LICENSE key:" >> wfulllist.txt
