@@ -1,4 +1,7 @@
 Linux
+
+(sudo) sh getserial.sh
+
 https://www.pendrivelinux.com/live-cd-repository/
 https://unix.stackexchange.com/questions/121757/harddisk-serial-number-from-terminal
 udevadm info --query=all --name=/dev/sda | grep ID_SERIAL
