@@ -1,0 +1,4 @@
+DESKTOP-OVRCK8H,(Standard disk drives),WDC PC SN520 SDAPMUW-256G-1001,\\.\PHYSICALDRIVE0
+~0,-2HunDegCel:~-2 Celsius 
+DESKTOP-OVRCK8H,(Standard disk drives),WDC PC SN520 SDAPMUW-256G-1001,\\.\PHYSICALDRIVE0
+~0,-2HunDegCel:~-2 Celsius 

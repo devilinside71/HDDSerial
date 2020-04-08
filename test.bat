@@ -1,12 +1,1 @@
-@Echo off&SetLocal EnableExtensions EnableDelayedExpansion
-Set "WinVerAct="
-
-For /f "tokens=*" %%W in ('
-    cscript /Nologo "C:\Windows\System32\slmgr.vbs" /xpr
-') Do Set "WinVerAct=!WinVerAct! %%W"
-if Not defined WinVerAct ( 
-    Echo:No response from slmgr.vbs
-    Exit /B 1
-)
-Echo Windows Version Activation Status:
-Echo:"%WinVerAct:~1%"
+for /f "skip=1 tokens=2 delims==" %%A in ('wmic /namespace:\\root\wmi PATH MSAcpi_ThermalZoneTemperature get CurrentTemperature /value') do set /a "HunDegCel=(%%~A*10)-27315"
